@@ -1,7 +1,7 @@
 ## SOBRE MIM
-- 👋 Olé meu nome é André Luís
-- 📫 Meu email de contato é andre.santos.camargo@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 👋 Olá! Meu nome é André Luís ou @andree.zxs 
+- 📫 Você pode entrar em contato comigo pelo email andre.santos.camargo@escola.pr.gov.br.
+- 🎓 Atualmente, estou cursando técnico em desenvolvimento de sistemas.
 
 <!---
 
