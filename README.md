@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo **Html, Css, JavaScript, JAVA e Python**
 
-- 📫 Como entrar em contato comigo: andre.santos.camargo@escola.pr.gov.br
+- 📫 Como entrar em contato comigo: andre.santos.camargo@escola.pr.gov.br ou andreluissantosdecamargo@gmail.com
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
